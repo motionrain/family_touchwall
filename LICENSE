@@ -1,21 +1,88 @@
-MIT License
+# Proprietäre Softwarelizenz – Alle Rechte vorbehalten
 
-Copyright (c) 2026 Hans Richter
+**Projekt:** HR Family TouchWall / HR Familien Touchwall (einschließlich sämtlicher zugehöriger Module, Bridges, Skripte, Layouts und Dokumentationen)  
+**Urheber & Rechteinhaber:** Hans Richter, Nollinger Straße 68 / 79618 Rheinfelden (Baden)  
+**Stand:** 2026.11.24  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. Schutzgegenstand und Eigentum
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Sämtliche Rechte an dieser Software – insbesondere das Urheberrecht sowie alle Verwertungs-, Nutzungs-, Marken- und Leistungsschutzrechte an Quellcode, Objektcode, Datenbankstrukturen, Schnittstellen-Skripten, grafischen Oberflächen, Texten und Dokumentationen (nachfolgend zusammen „Software“) – liegen ausschließlich und uneingeschränkt bei **Hans Richter** (nachfolgend „Urheber“).
+2. Die Software ist gemäß §§ 69a ff. Urheberrechtsgesetz (UrhG) geschützt und stellt zudem ein geschütztes Geschäftsgeheimnis im Sinne des Gesetzes zum Schutz von Geschäftsgeheimnissen (GeschGehG) dar.
+3. Durch die bloße Zugänglichmachung, Speicherung, Ansicht, Installation oder Übergabe der Software werden **keine Eigentums- oder Nutzungsrechte** übertragen.
+
+---
+
+## 2. Nutzungsrecht (Lizenzvorbehalt)
+
+1. **Keine freie Nutzung:** Ohne eine gesonderte, individuell geschlossene und **schriftliche Lizenz- oder Nutzungsvereinbarung** mit dem Urheber wird keinerlei Recht zur Nutzung der Software eingeräumt.
+2. **Umfang bei erteilter Einzellizenz:** Sofern der Urheber einer namentlich benannten Person oder einem Betrieb (nachfolgend „Lizenznehmer“) schriftlich ein Nutzungsrecht einräumt, gilt – sofern schriftlich nichts anderes vereinbart ist – ausschließlich Folgendes:
+   * Das Nutzungsrecht ist **einfach (nicht ausschließlich)**, **nicht übertragbar**, **nicht unterlizenzierbar** und **auf den ausdrücklich benannten Betriebsstandort beschränkt**.
+   * Das Nutzungsrecht beschränkt sich auf den eigenen internen Betrieb des Lizenznehmers.
+   * Sämtliche Rechte verbleiben auch bei kundenspezifischen Anpassungen, Erweiterungen oder Fehlerbehebungen vollständig beim Urheber.
+
+---
+
+## 3. Ausdrücklich verbotene Handlungen
+
+Jeder Partei – einschließlich etwaiger Lizenznehmer, Mitarbeiter, Dienstleister oder Dritter – ist ohne vorherige ausdrückliche sciftliche Zustimmung des Urhebers strikt untersagt:
+
+1. **Vervielfältigung & Weitergabe:** Die Software ganz oder teilweise zu kopieren, weiterzugeben, hochzuladen, öffentlich zugänglich zu machen, zu spiegeln (Mirroring/Forking) oder Dritten Einsicht in den Quellcode zu gewäen.
+2. **Kommerzielle Verwertung & Wettbewerbsschutz:** Die Software zu verkaufen, zu vermieten, zu verleasen, als Dienstleistung (SaaS/Hosting) für Dritte anzubieten oder in irgendeiner Form an Wettbewerber, andere Kartbahnen, Veranstalter oder externe Betriebe weiterzugeben oder dort einzusetzen.
+3. **Bearbeitung & Ableitung:** Die Software zu verändern, zu übersetzen, anzupassen, in andere Softwareprodukte zu integrieren oder abgeleitete Werke zu erstellen.
+4. **Reverse Engineering:** Die Software zu dekompilieren, zu disassemblieren, zu entschlüsseln oder den Quellcode bzw. die Funktionsweise zu rekonstruieren, soweit nicht zwingende gesetzliche Vorsciften (§§ 69d, 69e UrhG) ausdrücklich entgegenstehen.
+5. **Entfernung von Schutzvermerken:** Urheberrechtsvermerke, Lizenzdateien, Versionshinweise, Logos, Kommentare oder sonstige Eigentumskennzeichnungen des Urhebers zu entfernen, zu verdecken oder zu verändern.
+6. **Automatisiertes Auslesen & KI-Training:** Die Software, Teile davon oder die zugehörige Dokumentation für Data-Mining, Scraping oder das Training, Feintuning bzw. Evaluieren von Systemen der künstlichen Intelligenz zu verwenden.
+
+---
+
+## 4. Vertraulichkeit
+
+Wer berechtigt oder unberechtigt Zugang zum Quellcode, zu Konfigurationsdateien, Protokoll-Analysen oder internen Skripten der Software erhält, ist verpflichtet, diese streng vertraulich zu behandeln und durch geeignete technische sowie organisatorische Maßnahmen vor dem Zugriff unbefugter Dritter zu schützen. Diese Verpflichtung gilt zeitlich unbegrenzt über das Ende einer etwaigen Zusammenarbeit hinaus.
+
+---
+
+## 5. Beendigung, Widerruf und Löschungspflicht
+
+1. Ein eventuell sciftlich eingeräumtes Nutzungsrecht erlischt automatisch und fristlos, sobald gegen eine Bestimmung dieser Lizenz verstoßen wird.
+2. Der Urheber ist berechtigt, erteilte Nutzungsrechte aus wichtigem Grund – insbesondere bei Verstoß gegen die Ziffern 2, 3 oder 4, bei unbefugter Weitergabe oder bei Zahlungsverzug – fristlos zu widerrufen.
+3. Mit Beendigung oder Widerruf des Nutzungsrechts ist der bisherige Nutzer verpflichtet, **sofort** jede Nutzung einzustellen, sämtliche Kopien der Software (einschließlich Backups, Skripte und Konfigurationsdateien) auf allen Datenträgern und Systemen vollständig und unwiderruflich zu löschen und die vollständige Löschung auf Verlangen des Urhebers schriftlich zu bestätigen.
+
+---
+
+## 6. Gewährleistung und Haftung
+
+1. Soweit nicht in einer gesonderten schriftlichen Vereinbarung ausdrücklich anders geregelt, wird die Software im jeweils aktuellen Zustand („wie besehen“ / „as-is“) ohne ausdrückliche oder stillschweigende Gewährleistung für bestimmte Eigenschaften, ununterbrochene Verfügbarkeit oder Fehlerfreiheit bereitgestellt.
+2. Der Urheber haftet nicht für mittelbare Schäden, Folgeschäden, entgangenen Gewinn, Betriebsunterbrechungen oder Datenverlust.
+3. Unberührt bleibt die gesetzliche Haftung bei Vorsatz und grober Fahrlässigkeit, bei schuldhafter Verletzung von Leben, Körper oder Gesundheit sowie nach zwingenden Vorschriften des Produkthaftungsgesetzes.
+
+---
+
+## 7. Rechtsfolgen bei Verstößen
+
+Jede unbefugte Nutzung, Vervielfältigung, Bearbeitung oder Weitergabe der Software stellt eine vorsätzliche Urheberrechtsverletzung und gegebenenfalls eine Verletzung von Geschäftsgeheimnissen dar. Der Urheber behält sich vor, ohne vorherige Ankündigung sämtliche rechtlichen Schritte einzuleiten, insbesondere:
+
+* sofortige gerichtliche Unterlassung und einstweilige Verfügung (§ 97 Abs. 1 UrhG),
+* Auskunft über Art, Umfang und Empfänger der unbefugten Nutzung (§ 101 UrhG),
+* Schadensersatz nach Wahl des Urhebers, insbesondere auf Basis der Lizenzanalogie oder Gewinnabschöpfung (§ 97 Abs. 2 UrhG),
+* Vernichtung und Rückruf sämtlicher unrechtmäßiger Kopien (§ 98 UrhG),
+* Erstattung von Abmahn- und Rechtsverfolgungskosten sowie Strafanzeige (§ 106 UrhG, § 23 GeschGehG).
+
+---
+
+## 8. Schlussbestimmungen
+
+1. Änderungen, Ergänzungen oder Ausnahmen von diesen Lizenzbedingungen bedürfen zu ihrer Wirksamkeit der **Schriftform**. Dies gilt auch für die Aufhebung dieses Schriftformerfordernisses.
+2. Es gilt ausschließlich das Recht der **Bundesrepublik Deutschland** unter Ausschluss des UN-Kaufrechts (CISG).
+3. Soweit gesetzlich zulässig, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit dieser Lizenz **[Gerichtsstand, z. B. Lörrach]**.
+4. Sollten einzelne Bestimmungen dieser Lizenz ganz oder teilweise unwirksam oder undurchführbar sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+---
+
+## 9. Kontakt für Lizenzanfragen
+
+Für schriftliche Nutzungs- oder Lizenzvereinbarungen wenden Sie sich ausschließlich an:
+
+**Hans Richter**  
+E-Mail: `hgr3dsm@googemail.com`
