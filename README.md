@@ -17,7 +17,7 @@ Without a prior, express, and **written license agreement** from the Author, any
 
 Technical access to the repository, installation files, or a running system alone does **not confer any usage or ownership rights**. Violations will be prosecuted under civil and criminal law (Sections 97, 106 German Copyright Act – UrhG).
 
-The complete, binding terms can be found in the file [`LIZENZ.md`](./LIZENZ.md).
+The complete, binding terms can be found in the file [`LICENSE.md`](./LICENSE.md).
 
 
 [![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?logo=nextdotjs)](https://nextjs.org/)
